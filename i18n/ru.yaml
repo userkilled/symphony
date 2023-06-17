@@ -1,5 +1,5 @@
 LocaleCode: "ru"
-Language: "Russian"
+Language: "Русский"
 
 Translations:
     UnknownSymbol: "?"
@@ -104,7 +104,7 @@ Translations:
     Playlist: "Плейлист"
     AddSongs: "Добавить треки"
     AddToPlaylist: "Добавить в плейлист"
-    IsLocalPlaylist: "Это внутренний плейлист?"
+    IsLocalPlaylist: "Это внешний плейлист?"
     Yes: "Да"
     No: "Нет"
     ManageSongs: "Управление треками"
@@ -157,6 +157,9 @@ Translations:
     Disabled: "Отключён"
     ShowUpdateToast: "Показывать уведомление об обновлении"
     SponsorViaKoFi: "Спонсировать через Ko-fi"
+    PlaylistStoreLocation: "Расположение плейлиста"
+    AppBuiltIn: "Внутренний"
+    LocalStorage: "Внешний"
    
 
     PlayingXofY: "Играет $x из $y"
